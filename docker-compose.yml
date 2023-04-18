@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  redis:
+    image: redis
+    container_name: conteiner-redis-teste-01
+    ports:
+      - "6379:6379"
+  redis2:
+    image: redis
+    container_name: container_redis_teste-02
+    ports:
+      - "6380:6379"
