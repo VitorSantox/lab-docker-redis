@@ -1,0 +1,31 @@
+1 - Teste de prod em nuvem
+    Apontar para nuvem e validar tempo de resposta do chat
+
+2 - pontos de atenção
+    latencia alta
+
+3 - Entender e testar > json grafo
+    Análise de dependência de software:
+    O RedisGraph pode ser usado para modelar e analisar a dependência de software em um grafo. Isso é útil para entender
+    as relações entre diferentes componentes de software, identificar dependências circulares, encontrar caminhos críticos e
+    otimizar a estrutura de dependência.
+
+4 - Entender e testar > redis search
+    busca informações ñ só por chave mas também por valor
+
+
+??banco orientado a grafo??
+
+prox call segunda:: get set
+novas instruções
+
+*Para lab > Fora de horário convencional apontar o script teste para o redis local e validar o desempenho > depois limpar as chaves inseridas.
+
+
+*Rodar o script de teste de dentro do server e via insight
+
+
+*Unico enfase o tempo.
+**LATENCIA
+
+
