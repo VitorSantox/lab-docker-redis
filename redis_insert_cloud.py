@@ -13,7 +13,7 @@ hora_atual = horario_atual.strftime("%H:%M")
 print("Inicio de teste:", hora_atual)
 
 # Realizando 1000 inserções
-for i in range(1000):
+for i in range(10):
     r.set(f'key{i}', f'value{i}')
 
 # informando o horario final
